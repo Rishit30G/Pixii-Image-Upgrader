@@ -1,3 +1,7 @@
+
+
+<img width="1504" height="877" alt="Screenshot 2026-05-03 at 5 28 17 PM" src="https://github.com/user-attachments/assets/5beff529-ba3b-439e-ba01-dfa19e97de16" />
+
 # Pixii Image Upgrader
 
 An AI-powered image enhancement tool. Upload a photo, optionally describe how you want it enhanced, and get back a studio-quality result powered by the Claid.ai API.
@@ -24,6 +28,9 @@ An AI-powered image enhancement tool. Upload a photo, optionally describe how yo
 5. The user previews the result and can download it.
 
 The API route includes rate limiting (5 requests/min per IP) and request timeouts (30s).
+
+<img width="1695" height="828" alt="Screenshot 2026-05-03 at 5 27 51 PM" src="https://github.com/user-attachments/assets/29cfa774-fe04-4892-9105-dba730f9639a" />
+
 
 ## Project Structure
 
