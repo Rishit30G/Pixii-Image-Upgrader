@@ -1,0 +1,24 @@
+# dependencies
+node_modules
+
+# agent skills (vendored)
+.agents
+
+# next.js
+.next
+out
+build
+
+# misc
+.DS_Store
+*.pem
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# env
+.env*
+
+# generated
+next-env.d.ts
+*.tsbuildinfo
